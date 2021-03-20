@@ -1,0 +1,7 @@
+{
+  "withSeparateModelsAndApi": true,
+  "useSingleRequestParameter": true,
+  "apiPackage": "api",
+  "modelPackage": "models"
+}
+
